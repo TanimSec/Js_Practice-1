@@ -5,3 +5,4 @@ const message = `Hello ${name}. Your bill is ${price}`
 
 
 console.log(message);
+
